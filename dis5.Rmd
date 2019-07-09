@@ -1,0 +1,15 @@
+---
+title: "Discussion 5"
+author: "Michael O'Donnell"
+date: "July 7, 2019"
+output: html_document
+---
+## consider how to counter the radicalizing effects of recommender systems or ways to prevent algorithmic discrimination.
+
+In Renee Diresta's Wired article, Up Next: A Better Recommendation System, she illuminates a pressing issue about recommender systems and radical content. In summary, the issue is recommender systems can lead a user into an echo chamber of radical content (ie extremist political articles) without that being the users' intent. For example, if a user wants to find a video about weight training, youtube could quickly and accidently lead them into a recommendation spiral of high-intensity bodybuilding videos. But the user just wanted to learn to lift weights! Now transfer this example to health or politics, and there's an obvious issue.
+
+After learning the basics of recommender systems in this class, Renee's points are valid based on how recommenders work: recommender systems can accidently lead a user into a cycle of unwanted recommendations. But, if this issue is identified it can probably be countered.
+
+One idea is to allow the user community to flag content that is radical. This has flaws based on the community. But in a large, diverse community like YouTube it has a possibility of success. For example, if users continually flag radical content, like conspiracy videos, the recommender system can take them out of recommendation circulation.
+
+A second idea, is to use machine learning to flag radical, unwanted content. For example, if YouTube can identify the types of recommendations that cause users to "clear search history" or stop using YouTube, then the recommendation system can flag that content. Thus, this would take off-putting content out of circulation.
